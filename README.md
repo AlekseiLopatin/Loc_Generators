@@ -28,7 +28,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-FOR DnD ONLY!!! An app that creates a describtion of a small town with more than 24 random characteristics (origin, age, size, political situation etc.) based on fantasy tabletop role-playing game DnD. [Trading post.pdf](https://github.com/AlekseiLopatin/Loc_Generators/files/13857827/Trading.post.pdf)
+FOR DnD ONLY!!! An app that creates a describtion of a small town with more than 24 random characteristics (origin, age, size, political situation etc.) based on fantasy tabletop role-playing game DnD. The material for the app was originally made by [Nord Games](https://nordgamesllc.com/) in this book: [Trading post.pdf](https://github.com/AlekseiLopatin/Loc_Generators/files/13857827/Trading.post.pdf).
 Some of characteristics affect others.
 
 
