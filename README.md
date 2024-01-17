@@ -9,7 +9,7 @@
 </div>
 
 
-<h3 align="center">Location Generators:  Trading Posts</h3>
+<h3 align="center">Location Generators: <br /> Trading Posts</h3>
 
 
 <!-- TABLE OF CONTENTS -->
