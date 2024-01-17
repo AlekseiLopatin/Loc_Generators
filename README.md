@@ -13,8 +13,9 @@ To start just RUN the program
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/github_username/repo_name](https://github.com/AlekseiLopatin/critical_hit_bot)">
-    <img src="https://github.com/AlekseiLopatin/critical_hit_bot/assets/135117364/aff8e722-4fe9-4313-b97e-0d879850fd37" alt="Logo" width="80" height="80">
+  <a href="![Trading_post_logo](https://github.com/AlekseiLopatin/Loc_Generators/assets/135117364/06e39d34-c466-4f56-bfcc-f086dcd50dc4)
+">
+    <img src="https://github.com/AlekseiLopatin/Loc_Generators/assets/135117364/06e39d34-c466-4f56-bfcc-f086dcd50dc4" alt="Logo" width="160" height="90">
   </a>
 </div>
 
