@@ -18,7 +18,7 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#List-of-attributes">List of attributes</a></li>
     <li><a href="#dungeons-and-dragons">Dungeons and Dragons</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -28,7 +28,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-FOR DnD ONLY!!! An app that creates a describtion of a small town with more than 24 random characteristics (origin, age, size, political situation etc.) based on fantasy tabletop role-playing game DnD. Some of characteristics affect others. The material for the app was originally made by [Nord Games](https://nordgamesllc.com/) in this book: [Trading post.pdf](https://github.com/AlekseiLopatin/Loc_Generators/files/13857827/Trading.post.pdf).
+FOR DnD ONLY!!! An app that creates a describtion of a small town with more than 24 random attributes (origin, age, size, political situation etc.) based on fantasy tabletop role-playing game DnD. Some of attributes affect others. The material for the app was originally made by [Nord Games](https://nordgamesllc.com/) in this book: [Trading post.pdf](https://github.com/AlekseiLopatin/Loc_Generators/files/13857827/Trading.post.pdf).
 
 
 
@@ -38,28 +38,31 @@ FOR DnD ONLY!!! An app that creates a describtion of a small town with more than
 <!-- GETTING STARTED -->
 ## Getting Started
 
-1) Create a channel in discord and add the bot to the channel 
-2) Add your discord bot token to the code
-3) Run the code
-4) Your bot is working while your code is running
+To create a village with random characteristics - run the code.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- LIST OF ATTRIBUTES -->
+## List of attributes
 
-List of characteristics:
-Basic information (Origin, Speciality, Age, Condition, Traffic, Size, Environment);
-Society information (Population, Demographics, Disposition, Enforcement, Leadership, Population wealth, Crime);
-Interests (Shops, Services, Worships);
-Additional intrigue (History, Politics, Events, Opportunities, Weather, Danger level, Danger type).
 
-To start just RUN the program 
 
-If you have a webhook from [LongStoryShort](https://longstoryshort.app/about/) every time you roll d100 (d100 rolls only in 2 cases: critical hit or when you loot the treasure) the bot responses with a critical hit  
-![Screenshot_crit_bot2](https://github.com/AlekseiLopatin/critical_hit_bot/assets/135117364/59cee9dc-d9e1-401f-99d7-fe4393fa7c7e)
+Numbers in round brackets () represent the output of your dice rolling. Some attributes can affect other attributes. The roll results will give you modifiers. Most modifiers will
+add or subtract from a future roll. Numbers in square brackets [] represent the modifier for the attribute.
+
+Basic information (Origin, Speciality, Age, Condition, Traffic, Size, Environment)
+![image](https://github.com/AlekseiLopatin/Loc_Generators/assets/135117364/a65115c5-7f74-436d-88d5-8427a92a55fb)
+<br />
+Society information (Population, Demographics, Disposition, Enforcement, Leadership, Population wealth, Crime)
+![image](https://github.com/AlekseiLopatin/Loc_Generators/assets/135117364/a90f890e-cbaf-4c57-bee0-ecea42d8a04f)
+<br />
+Interests (Shops, Services, Worships)
+![image](https://github.com/AlekseiLopatin/Loc_Generators/assets/135117364/1f2448fe-1071-466f-80eb-05d5b4407f67)
+<br />
+Additional intrigue (History, Politics, Events, Opportunities, Weather, Danger level, Danger type)
+![image](https://github.com/AlekseiLopatin/Loc_Generators/assets/135117364/e4676639-84d0-4d6a-a0e7-b4d360049f19)
 
 
 
@@ -84,6 +87,7 @@ Have fun and remember the golden rule—never split the party!
 
 * [Discord](https://discord.com/)
 * [LongStoryShort](https://longstoryshort.app/)
+* [Nord Games](https://nordgamesllc.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
