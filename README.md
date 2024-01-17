@@ -1,19 +1,15 @@
-Location Generators: Trading Posts
-
-
-
 <a name="readme-top"></a>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="![Trading_post_logo](https://github.com/AlekseiLopatin/Loc_Generators/assets/135117364/06e39d34-c466-4f56-bfcc-f086dcd50dc4)
 ">
-    <img src="https://github.com/AlekseiLopatin/Loc_Generators/assets/135117364/06e39d34-c466-4f56-bfcc-f086dcd50dc4" alt="Logo" width="160" height="90">
+    <img src="https://github.com/AlekseiLopatin/Loc_Generators/assets/135117364/06e39d34-c466-4f56-bfcc-f086dcd50dc4" alt="Logo" width="320" height="180">
   </a>
 </div>
 
 
-<h3 align="center">Trading Posts</h3>
+<h3 align="center">Location Generators:  Trading Posts</h3>
 
 
 <!-- TABLE OF CONTENTS -->
